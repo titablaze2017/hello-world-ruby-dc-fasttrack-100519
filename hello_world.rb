@@ -1,2 +1,2 @@
 puts "Hello World!"
-learn sumit
+learn submit
